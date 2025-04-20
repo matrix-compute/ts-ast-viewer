@@ -29,7 +29,7 @@
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
     "@types/react-treeview": "^0.4.3",
-    "@vitejs/plugin-react": "^4.2.1",
+    "@vitejs/plugin-react": "^4.4.0",
     "glob": "^10.3.10",
     "ts-factory-code-generator-generator": "^0.7.0",
     "typescript": "5.0.2",
